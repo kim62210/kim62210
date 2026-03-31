@@ -9,8 +9,7 @@ Studied architecture, ended up engineering software. Now an AI engineer at a man
 
 ### Currently Working On
 
-- [`flowtext`](https://github.com/YOUR_USERNAME/flowtext) — DOM-free layout engine combining Yoga + Pretext
-- [`pptx2html-rs`](https://github.com/YOUR_USERNAME/pptx2html-rs) — PPTX → HTML converter in Rust/WASM
+- [`flowtext`](https://github.com/YOUR_USERNAME/flowtext) — DOM-free layout engine combining Yoga + Pretext - [`pptx2html-rs`](https://github.com/YOUR_USERNAME/pptx2html-rs) — PPTX → HTML converter in Rust/WASM
 - A B2B SaaS side project
 
 ### Tech Stack
@@ -29,21 +28,4 @@ Studied architecture, ended up engineering software. Now an AI engineer at a man
 ### Interests
 
 `LLM Tooling` · `Deep Research Pipelines` · `RAG` · `Document Format Conversion` · `DOM-free Layout`, `Ontology`
-
-### 📫 How to Reach Me
-
-[![Blog](https://img.shields.io/badge/Blog-YOUR_BLOG-black?style=flat-square)](https://YOUR_BLOG_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-YOUR_CHANNEL-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://YOUR_YOUTUBE_URL)
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
-
-</details>
-
 
