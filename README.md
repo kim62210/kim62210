@@ -9,8 +9,9 @@ Studied architecture, ended up engineering software. Now an AI engineer at a man
 
 ### Currently Working On
 
-- [`flowtext`](https://github.com/YOUR_USERNAME/flowtext) — DOM-free layout engine combining Yoga + Pretext - [`pptx2html-rs`](https://github.com/YOUR_USERNAME/pptx2html-rs) — PPTX → HTML converter in Rust/WASM
-- A B2B SaaS side project
+   - [`flowtext`](https://github.com/YOUR_USERNAME/flowtext) — DOM-free layout engine combining Yoga + Pretext 
+   - [`pptx2html-rs`](https://github.com/YOUR_USERNAME/pptx2html-rs) — PPTX → HTML converter in Rust/WASM
+   - Other B2B SaaS side Project or agents
 
 ### Tech Stack
 
